@@ -359,8 +359,8 @@ MonoBehaviour:
   switchSettingsMigration: 1
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: B:/GameProduction/FMOD Projects/GameOff2023FMOD/GameOff2023FMOD.fspro
-  sourceBankPath: B:/GameProduction/FMOD Projects/GameOff2023FMOD/Build
+  sourceProjectPath: Assets/FMOD Assets/GameOff2023/GameOff2023.fspro
+  sourceBankPath: Assets/FMOD Assets/GameOff2023/Build
   sourceBankPathUnformatted: 
   BankRefreshCooldown: 5
   ShowBankRefreshWindow: 1
